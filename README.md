@@ -7,4 +7,5 @@ Wird verwendet für Dev Ops Training
 
 Demo für Git merge und push
 
-Hi!
+Bernhard
+
