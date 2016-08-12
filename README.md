@@ -6,3 +6,5 @@ Wird verwendet für Dev Ops Training
 - Git
 
 Demo für Git merge und push
+
+Hi!
